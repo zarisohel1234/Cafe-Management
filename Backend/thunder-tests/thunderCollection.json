@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "38204e81-ed15-4627-90ed-cc8fca0b91cf",
+    "colName": "CafeManagement",
+    "created": "2022-06-07T03:22:43.668Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "6e02f604-6e32-4c73-9be3-a3ad8c12c6b7",
+        "name": "Category",
+        "containerId": "",
+        "created": "2022-06-09T08:45:30.371Z",
+        "sortNum": 10000
+      },
+      {
+        "_id": "7485678e-88b0-471c-929e-d92e1fb03885",
+        "name": "User",
+        "containerId": "",
+        "created": "2022-06-09T08:45:41.161Z",
+        "sortNum": 20000
+      },
+      {
+        "_id": "172118e4-00bb-42ca-9538-58e75fef5001",
+        "name": "Products",
+        "containerId": "",
+        "created": "2022-06-09T09:09:23.869Z",
+        "sortNum": 30000
+      },
+      {
+        "_id": "c26ba5c3-9d21-4ea7-aebc-d94ad073eb21",
+        "name": "Bill",
+        "containerId": "",
+        "created": "2022-06-09T13:50:41.140Z",
+        "sortNum": 40000
+      },
+      {
+        "_id": "8f688d19-b410-48a0-9120-7d09c4a6fd24",
+        "name": "Dashboard",
+        "containerId": "",
+        "created": "2022-06-10T01:42:07.845Z",
+        "sortNum": 50000
+      }
+    ]
+  }
+]
